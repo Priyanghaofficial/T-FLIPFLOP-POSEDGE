@@ -1,4 +1,4 @@
-![image](https://github.com/Priyanghaofficial/T-FLIPFLOP-POSEDGE/assets/147121154/c70af10d-ef51-4689-82c7-046b4b032a74)# T-FLIPFLOP-POSEDGE
+
 
 **AIM:**
 
@@ -63,11 +63,10 @@ assign q_bar = ~q;
 endmodule
 ```
 **RTL LOGIC FOR FLIPFLOPS**
-![image](https://github.com/Priyanghaofficial/T-FLIPFLOP-POSEDGE/assets/147121154/7d013a26-8109-4a34-a926-3bfc460d6641)
-
-**TIMING DIGRAMS FOR FLIP FLOPS**
 ![image](https://github.com/Priyanghaofficial/T-FLIPFLOP-POSEDGE/assets/147121154/7c415c3c-5248-4ffa-9393-ee8f1492152b)
 
+**TIMING DIGRAMS FOR FLIP FLOPS**
+![image](https://github.com/Priyanghaofficial/T-FLIPFLOP-POSEDGE/assets/147121154/7d013a26-8109-4a34-a926-3bfc460d6641)
 
 **RESULTS**
 Hence, T flipflop using verilog and validating their functionality using their functional tables is implemented.
